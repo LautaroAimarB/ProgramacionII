@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428535101 source:g:\lautaro\codeblocks\github\ejercicio7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
