@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1429025629 source:g:\lautaro\codeblocks\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+
