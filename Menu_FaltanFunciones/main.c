@@ -55,6 +55,7 @@ int proceso(int opc, int*m[])
     scanf("%d",&vuelta);
     system("cls");
     }while(vuelta<0 || vuelta >1);
+    return vuelta;
 }
 
 void mostrar(int* m[])
